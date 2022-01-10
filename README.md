@@ -24,24 +24,24 @@ First lets see how .apk gile get genertaed .
 To solve those issue we can move into CI/CD
 
 ### CI : Continuous Integration
-> Atomic code changes
-> Feature flag
-> Mitigate risks
+* Atomic code changes
+* Feature flag
+* Mitigate risks
 
 ### CD : Continuous Delivery
-> Risk free delivery
-> No certificate management overhead
-> Fastest delivery
-> Focus on development
+* Risk free delivery
+* No certificate management overhead
+* Fastest delivery
+* Focus on development
 
 [More about CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
 
 ### fastlane 
-> Its an CI/CD tool
-> Tools to automate mobile app delivery
-> Open-source tools based on ruby
-> Protability
-> Easily manageable
+* Its an CI/CD tool
+* Tools to automate mobile app delivery
+* Open-source tools based on ruby
+* Protability
+* Easily manageable
 
 [fastlane](https://fastlane.tools/)
 [fastlane](https://github.com/fastlane/fastlane)
