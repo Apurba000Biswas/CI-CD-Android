@@ -44,7 +44,7 @@ To solve those issue we can move into CI/CD
 * Easily manageable
 
 [fastlane](https://fastlane.tools/)
-[fastlane](https://github.com/fastlane/fastlane)
+[fastlane github](https://github.com/fastlane/fastlane)
 
 ### Example Android app deployment process
 
