@@ -52,4 +52,8 @@ To solve those issue we can move into CI/CD
   <img src ="cicd-1.png" width ="700">
 </div>
 
+### Github Workflow and Fastlane
 
+<div align="center">
+  <img src ="cicd-2.png" width ="700">
+</div>
