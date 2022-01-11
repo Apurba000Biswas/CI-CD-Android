@@ -46,6 +46,8 @@ To solve those issue we can move into CI/CD
 [fastlane](https://fastlane.tools/)
 [fastlane](https://github.com/fastlane/fastlane)
 
+### Example Android app deployment process
+
 <div align="center">
   <img src ="cicd-1.png" width ="700">
 </div>
