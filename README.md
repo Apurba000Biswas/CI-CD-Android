@@ -15,10 +15,10 @@
 
 ### Overview of signed apk files
 First lets see how .apk gile get genertaed .
-> Gradle + JDK creates .dex(Dalvik Executable) files.
-> These .dex files are zipped into apk files
-> .apk files are zipped into .aab files.
-> These files are signed on java keystore (JKS) certificate.
+* Gradle + JDK creates .dex(Dalvik Executable) files.
+* These .dex files are zipped into apk files
+* .apk files are zipped into .aab files.
+* These files are signed on java keystore (JKS) certificate.
 
 
 To solve those issue we can move into CI/CD
