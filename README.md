@@ -57,3 +57,16 @@ To solve those issue we can move into CI/CD
 <div align="center">
   <img src ="cicd-2.png" width ="700">
 </div>
+
+Ok that was it.
+
+## Hands on
+
+Its time to get our hand dirty...
+
+To go ahead we will need three things as requirements
+1. Google play store acc which has already an app published.
+2. And the project must be integrated with firebase.
+3. Rubby installed on local machine
+
+
